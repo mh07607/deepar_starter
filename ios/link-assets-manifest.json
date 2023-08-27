@@ -1,0 +1,1025 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/effects/Burning_Effect/burning_effect.deepar",
+      "sha1": "5891abde7778699f4de0bfadf85b96a49ff24826"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000000.png",
+      "sha1": "31aa62b23d8870cda3973d50833d4d5a6416ce2c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000001.png",
+      "sha1": "924f09f2674c10a7f9b16cb44eb690ed60471765"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000002.png",
+      "sha1": "a2ffaf6b7393f45aff8d0c1a589cabad08a636eb"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000003.png",
+      "sha1": "1eb60f5e47da7506273d7c7e3a84a2399d4e2f71"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000004.png",
+      "sha1": "709b235257fdcf32fb2106bd9774023324d95e2e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000005.png",
+      "sha1": "afa2655ae524efef159658ad38e5193699d0da32"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000006.png",
+      "sha1": "c92bc4d0da89c889ca1bffac9fbd830e1699e963"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000007.png",
+      "sha1": "77b30381d868bb3007c745e08b16a178fbddb1a7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000008.png",
+      "sha1": "0fa558a7f1be4afac3a255408c573b4b2a803df5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000009.png",
+      "sha1": "874bbd97d28c1ee2b1338e355b9d2539c2692b71"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000010.png",
+      "sha1": "524a02ea03f61e9c09a881144ad5e64e262e01e7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000011.png",
+      "sha1": "5b8a674c37ff29a59785bd3d97136e6eb8a5c79a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000012.png",
+      "sha1": "b4101478e3f461b2cbb152f84bfa38f3a47ace10"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000013.png",
+      "sha1": "06480bac11d386038778aaea78feaf0853f4c888"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000014.png",
+      "sha1": "1c2bdc30186ce2929395910abd0285df46361d7c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000015.png",
+      "sha1": "f56661a702de73dda81daa25cbc772a8fe9ccff7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000016.png",
+      "sha1": "2c334ab199bafe98e62c55867b7821e7ea73f566"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000017.png",
+      "sha1": "85869919d764b7c5909e00a8fda0847a8e3748ef"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000018.png",
+      "sha1": "4155995023313b3035a1cff23d8879d0b089476d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000019.png",
+      "sha1": "1d6079e2b2744bd1c4892026779136c518720308"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000020.png",
+      "sha1": "5df73f9962f4f24323b9ea3955f17611a32cea4c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000021.png",
+      "sha1": "b5e01847bb77ac74f271ef5b728295ffab64d044"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000022.png",
+      "sha1": "9bfc41fa35d0f85635d11ab6b863fa4a0fb7e658"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000023.png",
+      "sha1": "232478ef5f5251bcf3cb5c783ddad68a2fe8407e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000024.png",
+      "sha1": "0bc0ec37e31cfa93649af5b1ee8dd3ecedcf7e23"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000025.png",
+      "sha1": "091e77e878bd20ad80072921fb981f7b8137243d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000026.png",
+      "sha1": "f0615ea3222403e0fdcac882b300975ac7121d2c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000027.png",
+      "sha1": "89f0c5409b83cc5b754c384a17b639baad1f7c42"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000028.png",
+      "sha1": "a2ca27736f33e81c3438644a08229b55d0a779ca"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000029.png",
+      "sha1": "bd16166675602f54ddf603606784addb31c744a7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000030.png",
+      "sha1": "b5920c8e548a1549361125dedd8365cab3375577"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000031.png",
+      "sha1": "661c24aae9b6e8451799b12d99b0e73a471fc93f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000032.png",
+      "sha1": "264c61bb331871405485263f54dd10994d6da2b1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000033.png",
+      "sha1": "112aabce0ff245be3cbaa784617bc4328bc6e2e4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000034.png",
+      "sha1": "8553a394d1da0ad5f13e464792518fbfa25548b9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000035.png",
+      "sha1": "f67fe25847bf9759f28f59d5a4dfd7d4061586ba"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000036.png",
+      "sha1": "5a29f578a70c53a2d335c60b13a50ad6387f0f28"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000037.png",
+      "sha1": "89345a9c789649ce0d202f68266126daa29be0c3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000038.png",
+      "sha1": "a4a6675bc656ebb03c9a8afc83580bc52d98dac9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000039.png",
+      "sha1": "c33e59a244e81c66a82929557a40b89d03011bb8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000040.png",
+      "sha1": "4f4e5f7694838a5c2f85404c14d5a7b903d038d6"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000041.png",
+      "sha1": "d187030a6b45b88420b05b6662c760646a0c6fd5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000042.png",
+      "sha1": "cb51b88ac72166cf5ed95f063115c498d91c649e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000043.png",
+      "sha1": "1fb428f93bc5d1017be4432f57b8fd0f016186e8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000044.png",
+      "sha1": "e42a86db9e57aa01e8820b7c9efdc0df7d6fbd71"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000045.png",
+      "sha1": "ddd269a3ff23d483950f16e5082b59cdd9db3d0b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000046.png",
+      "sha1": "2d2db50a966853bd299bb3eb756774124d5c4b03"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000047.png",
+      "sha1": "ac76f95a66510b3a0e35623fe20539e23530b9b9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000048.png",
+      "sha1": "c7575b4b4cfdc2265cabdffcbcb48e9d481f7d38"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000049.png",
+      "sha1": "6d2139b20c8b0fbd717f8953412b4b6d15a8f8c4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000050.png",
+      "sha1": "efe12927d166a2d8ab169c8769378de93c9352ea"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000051.png",
+      "sha1": "866a3296e86557b4156521a87f790d5d166aba40"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000052.png",
+      "sha1": "792e3f00f1b5a7c684e2c7f6457f76936f053ea5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000053.png",
+      "sha1": "aecb12940b523b00bb29fef4ef6d9699889b53d1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000054.png",
+      "sha1": "5cc1e180c11c2771d22ede9e1ac97ff77f2edbe2"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000055.png",
+      "sha1": "00d7894dbe69656e94c0bc4620eb13c802895407"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000056.png",
+      "sha1": "26a2396bdafdd9624b9184e8e6cdb47faaf237dc"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000057.png",
+      "sha1": "6ebf0baafdae3ee7639f3bc63fe1ae5f644e4e6b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000058.png",
+      "sha1": "ad7e244fd8d938ca67f6241e72ecc281711cf64e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000059.png",
+      "sha1": "832f57c597f7bfbacb3d8652112e7d38fc28ace8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000060.png",
+      "sha1": "56447aa3162ee734df3d3a6f639c66034126ac1f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000061.png",
+      "sha1": "daa400f539cd2ab6f2be45e48328694c2a1e43da"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000062.png",
+      "sha1": "96fb6fa67c9320077e9371bd7f7f63beba84d915"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000063.png",
+      "sha1": "73d05198996b47eb62add54b2d9e7a199dfa9d78"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000064.png",
+      "sha1": "16edf1d29364750cc0850a66d747af66ce096ce5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000065.png",
+      "sha1": "952234db698e0bb134ccb1509a9dacf72597c7e1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000066.png",
+      "sha1": "9180e9dd991e07ffffa06891c7261e9777fa94a1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000067.png",
+      "sha1": "202ead851071f3f22e6ecacb1452735fbf81f042"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000068.png",
+      "sha1": "710b3f8fce018bf138bdf9076b0527b0bf75e65c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000069.png",
+      "sha1": "83981020723ffe848e81e9c2c5bcf3387c9c168b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000070.png",
+      "sha1": "df13cb93ff42d261ca372a6ec7b7fb7f2a146c7e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000071.png",
+      "sha1": "bde9016e7a52d09c5f44b7ff32a1c97d2c11849a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000072.png",
+      "sha1": "9783f40fbd630b1a62819acc6417afd5e0142e11"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000073.png",
+      "sha1": "a16221b085a453d8d770d9fc167737e35db7be39"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000074.png",
+      "sha1": "a8a3230869374462301b94e7f8b7135fc44e8c7b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000075.png",
+      "sha1": "7cf435295945a91ccbcb418cd3a8b72b515386a0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000076.png",
+      "sha1": "bbbd35fa639147b3f4b9c17fb5b496ee8325b753"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000077.png",
+      "sha1": "16b4c1c4575507bf5fea7ba15d020ffc080b46ef"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000078.png",
+      "sha1": "cc463e057992c21d24ac3a41fb9c5382f2d6aca2"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000079.png",
+      "sha1": "96f9bd921728deb8e59bc6ab5ec37b6e5766284a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000080.png",
+      "sha1": "218cb7d853931db8aeb1485bef2fbd010a008544"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000081.png",
+      "sha1": "cd6d0113730090b39cf9ea8ed7fbd21f10209059"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000082.png",
+      "sha1": "f90d0ef8329d5699ca8562e6717beb786a9a981f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000083.png",
+      "sha1": "3f42889538f5e9ea8f39ccc6ec327004a44e8307"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000084.png",
+      "sha1": "a00ce559c78477fcc6557985ea1e336419257336"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000085.png",
+      "sha1": "24a67a51cafe54178e85075fb129b65b6129b9f6"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000086.png",
+      "sha1": "8bc99739d5a915a7ddb618c90651121278f7e6cd"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000087.png",
+      "sha1": "2347621280b9b30d0c66167bdc7cc4f2f853af31"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000088.png",
+      "sha1": "b3a0399a517b7c406314b986d30f44e271eb917e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000089.png",
+      "sha1": "cc285399b742ce8a9374f33d5fd62205eb4280f0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000090.png",
+      "sha1": "72e3258269b72edafacaa734bb156bac982021a0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000091.png",
+      "sha1": "8644d840c2fdb0363156ab817a18e9f6e4336cb4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000092.png",
+      "sha1": "aaabe2c286eadbed68716d8d8cf1cb3ed8611f28"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000093.png",
+      "sha1": "61c9f40a4dde9c0bd29d5b42d8deed62f70d0f1f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000094.png",
+      "sha1": "5c4c25ae9fc3807eedee6de3020fe9b7520d4920"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000095.png",
+      "sha1": "6ad6ac2f56ee4e2b199626b995b7d341f2f65867"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000096.png",
+      "sha1": "d4738d5b606862f567eb70890cde554594174308"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000097.png",
+      "sha1": "2571f440b7b1fec14fab5e476266f8d92f5ceb3e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000098.png",
+      "sha1": "a216becff6d4dc451a049ac6070898393dd906f8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000099.png",
+      "sha1": "cae264aa98cbf65c8fb415afdd699a0513c1157a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000100.png",
+      "sha1": "6a6b7147f0fcbbeedcd44c69a0ee40f718744d34"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000101.png",
+      "sha1": "f1147f5bf3acc78632f279094924623848c30fe6"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000102.png",
+      "sha1": "d08eac30829832d045b4bfd337c51ee21000d789"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000103.png",
+      "sha1": "c0edb64497f116105459cd7fdee57b2247111d6d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000104.png",
+      "sha1": "e8504f27b273b7b50169d071639abf806ed44769"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000105.png",
+      "sha1": "c5a67eaa756370f3a017ce6bec39111388a164ad"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000106.png",
+      "sha1": "a8a8d6cd9bf1a3f21285ca8959ded554b460eb6c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000107.png",
+      "sha1": "b4154a15c18bfbad5c002f922143ce807f3e6b02"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000108.png",
+      "sha1": "b05dbd6c2009ba95a10c45cacc35ef335ba43e72"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000109.png",
+      "sha1": "d094f432ab3f69effc6af44cc71b3550d1e1777e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000110.png",
+      "sha1": "eae7ae3df54cc0a80bd0719820401472dbd35e63"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000111.png",
+      "sha1": "83be778d47f1140bd8b80d84e9221de1b70d8cc3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000112.png",
+      "sha1": "37420323b9c3f9b6dfc9c14d8c912a86e5dcdd91"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000113.png",
+      "sha1": "72dbacedc5d34a47118fb6e322ac83a92e89acfa"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000114.png",
+      "sha1": "427ccf94143c431b56cdd9c450a7c8a0fdf6338b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000115.png",
+      "sha1": "4dfc2d9d72806d6ebfa8d609aa788ccba504b35b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000116.png",
+      "sha1": "49cc5f67fcd116cf172ffdc6525d8f7a086bd1ca"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000117.png",
+      "sha1": "99c06d24b8c22efd7833f8a51a5a22a44134c62d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000118.png",
+      "sha1": "308b5cf42b5fa950404109fe1bf9d99bcab9ba08"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000119.png",
+      "sha1": "877083efb048b65bba3059fc66f04e12fe783994"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000120.png",
+      "sha1": "53d1d045169d29ac930b6f2e9c7caf0a381441b4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000121.png",
+      "sha1": "540c9e675a5cbd68c13903504dda18caf16d31b4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000122.png",
+      "sha1": "f9ab73d02e38b3f9ced2c2759bc3b3f2e4df711c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000123.png",
+      "sha1": "df898cb8f75015ce6f4542eca92177164e779716"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000124.png",
+      "sha1": "f96c75eeaddf7c698f607704fb4508f252850c59"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire/frame000125.png",
+      "sha1": "ca7b8a7c3a116ea2dc1ed787be6849e61e01d40b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/.mayaSwatches/frame-000121.jpg_hcm.swatch",
+      "sha1": "76906373d1fcd7246ae5f72d7ef1c896e5e9319f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000000.png",
+      "sha1": "f92ba371deb075f3403309fd44f0dc589d98c93b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000001.png",
+      "sha1": "20f965f62fd7d5dfcf386cc5c1ca6ef1c66affc4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000002.png",
+      "sha1": "9951f3f0370a9bcb2eeb5ab06bfcb2371b023add"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000003.png",
+      "sha1": "e0554a6216dd661f8346669436f0c2fbd83b9565"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000004.png",
+      "sha1": "e4dc5c830756169950189872ff4ee2704b35cfa6"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000005.png",
+      "sha1": "3eac4593e667ae3f0c81eabb175b95c40ceea88a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000006.png",
+      "sha1": "5924ed0ab3b58c43851aed3aa03131d330f25980"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000007.png",
+      "sha1": "38741b245f1df455eee98a128ffadcfef1c09a01"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000008.png",
+      "sha1": "3b4fd63bef7a339b8ac814e95c23feff5bd459ec"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000009.png",
+      "sha1": "8c4c5d31fcc7508491dbfc53699fc759c666e6c5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000010.png",
+      "sha1": "be9d630823a307ad29b469d7a0b4c7907927b81b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000011.png",
+      "sha1": "b870f43afd1101dba3b471fce8bd63a55e8fb435"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000012.png",
+      "sha1": "268db2764e3972be28c07e07fdfc41208fc8b1a3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000013.png",
+      "sha1": "4139836e346a1409f1faed6d90e7876062db5d84"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000014.png",
+      "sha1": "b348b16e9cc28b24013beed12b7a2b5aa39d80b5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000015.png",
+      "sha1": "594c3a9d49f86eef4d2f8a6ececcef97c8b8ed8d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000016.png",
+      "sha1": "d34dcac28173e429626b85f0524b36473c76ee6a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000017.png",
+      "sha1": "55032503c643731cfee3c3b66a5b5d8ebd1e2ec0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000018.png",
+      "sha1": "ee64b67de184638c066bf33bcf3b1d6dfbced49a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000019.png",
+      "sha1": "6a7aca9d5adf58505cce06e471cace34319245f8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000020.png",
+      "sha1": "fd868ab85e62912d84645137ae78415ea63cb767"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000021.png",
+      "sha1": "2646ba6dfd89898355a6ecbc184fc889fb0a7d97"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000022.png",
+      "sha1": "3e5eeed90d31892cd572c584ee17c018922b768b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000023.png",
+      "sha1": "bd533c8019b3aa3d8b8fe9b1f596f3f728855178"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000024.png",
+      "sha1": "012657b6106bf798f0ac512c02f66aa8dcaabbd3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000025.png",
+      "sha1": "2226c75bef7b6946994b88cbd7d4e78468239dd4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000026.png",
+      "sha1": "89dba9be1eda0b9376d21bd8b7dbd0e9362c434b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000027.png",
+      "sha1": "3fdffa8413075692d9a43fed7b8ed7909152e91f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000028.png",
+      "sha1": "71a3f68c0ed10d1e4d94d645f661b3208f2b397a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000029.png",
+      "sha1": "f4de3572120c03f9de6cfb403858c2fb2d290cf9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000030.png",
+      "sha1": "be60d2662c16e61c435be4df71df38a6812ba138"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000031.png",
+      "sha1": "05ef9df65d5486eb0b4f32451f95ac85f5ab039c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000032.png",
+      "sha1": "0e799af99423e1053ec266edeaee3e4f78eae0f8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000033.png",
+      "sha1": "0e01d3d3ddb920d8cd84e234f4971396de418347"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000034.png",
+      "sha1": "ce605c2c58322827c7469d1de65d139932b2fb7f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000035.png",
+      "sha1": "732bddaf20a13d8622daf31ce408beaa4afd8e6a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000036.png",
+      "sha1": "d264c9fc4ebf173707dd1a9073c1d4a1d1496184"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000037.png",
+      "sha1": "2b81c2b64f86b0833ec0675a7d304aec18f672bd"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000038.png",
+      "sha1": "b4ed1da26696c70a3770cd07f5067d6b93924958"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000039.png",
+      "sha1": "c35a64c02da5644ab7c5b35b15044ab13169d48a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000040.png",
+      "sha1": "308acc7070fb1c142f5cbe92232809631befdafb"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000041.png",
+      "sha1": "32e66aee6478ab6f1648ce1789e3ecde2b8cff41"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000042.png",
+      "sha1": "596e59f78bb10783d94f46faf064add55118982a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000043.png",
+      "sha1": "f5354703cf0d55e3ba734a17c28d2e5e97e261ea"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000044.png",
+      "sha1": "00095461058b549fab89e108fa24bdccb78dcf97"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000045.png",
+      "sha1": "f62f45ef17cbef3b17a98f100ca71f4d170df040"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000046.png",
+      "sha1": "1c5be5b8e69ef8d3affd5152c1e13f6d8f85f18c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000047.png",
+      "sha1": "da9d56580666bd190043cd48a00c40f42524a00c"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000048.png",
+      "sha1": "07b3ad64abdd6d47b606693042c743bca54749c1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000049.png",
+      "sha1": "e1b84eab010422114560e979c45f850cf4d40e85"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000050.png",
+      "sha1": "4bbd60596e156ae303a920f21d37a78c0876aff0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000051.png",
+      "sha1": "a5df251903378eca7aa662f66380d13e1b2591f7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000052.png",
+      "sha1": "02570ba424289db0f5f61c977031145e4a3dc777"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000053.png",
+      "sha1": "8299357177ef1a41eda0971c328e8e218963fee8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000054.png",
+      "sha1": "2858af292352b02f8b24443f6658a3ed0d752112"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000055.png",
+      "sha1": "4521bbc74a377f5d60866130b9c97ed3b30721fb"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000056.png",
+      "sha1": "58b8bf0637c6bf5e34d74dd55a8e6bae5a028b84"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000057.png",
+      "sha1": "d9b549ab9f005e3dce547529776af067790d9294"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000058.png",
+      "sha1": "4e80309aa8b7e7d948aae4b3e9fc8ae2d7fe2019"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000059.png",
+      "sha1": "eb2fb9de4337573786cc5e5977c4dc7650cd1e7f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000060.png",
+      "sha1": "6e32601a61800e926dfee3ef7da658e69cdcbaa6"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000061.png",
+      "sha1": "1947ef5399e01080430ebaf0d215d2f1010a9a6e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000062.png",
+      "sha1": "2f3a8f17800416b166a483af50dbd7f9041b620a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000063.png",
+      "sha1": "1ee96df0c3424980d9dde740cdbd4021c38b8473"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000064.png",
+      "sha1": "758c7720153bcaade84c7cd31a6f102995539c30"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000065.png",
+      "sha1": "ec3fb9b01503e049d94abda62adb4375b8213027"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000066.png",
+      "sha1": "cf341da94476e5ab579a691c6677276c4d83b12a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000067.png",
+      "sha1": "41bd72c39ab8d0e066db40f4f41c09e89c0d077a"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000068.png",
+      "sha1": "503bed6b849cb69aabe22fdc5530f32049f8c25b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000069.png",
+      "sha1": "750b673a5029582be73d3595410891f2b0ba2be2"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000070.png",
+      "sha1": "66b66c9bcd2db5f9f18ff8168065025e787e7b34"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000071.png",
+      "sha1": "041ad97f6df5cd56408448d9888fbf7a87416096"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000072.png",
+      "sha1": "b37fef3ac0ee2751f55aef31476bed19de71a932"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000073.png",
+      "sha1": "e2063def3ef8279f943a12c2a12cc22303ff393e"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000074.png",
+      "sha1": "45ce2ebabfc3dbd2213cea1b6ef888b1502db4b7"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000075.png",
+      "sha1": "bafb5cc80d0ee0d0e2508196b235073dd238cd73"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000076.png",
+      "sha1": "25554293dfbbbac0690ca0a29306e2b2a5058780"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000077.png",
+      "sha1": "1d25257206bc1abf8621bd54ded8c1e65ace2546"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000078.png",
+      "sha1": "0051c3e278608b93f8440f0d0cea368ae9c841d4"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000079.png",
+      "sha1": "6c92a654dfeb251b09dd5a4efc5c72f7ee5ca10d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000080.png",
+      "sha1": "882e7e465f4741e09a3765b03cf1b193065465d0"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000081.png",
+      "sha1": "8d41a5657b0081b02520021c631fce0531c5fc48"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000082.png",
+      "sha1": "3b3cd950d254a2ee7e4859aa84226816055a2646"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000083.png",
+      "sha1": "d2016fbaeee0fe6945ebdcbce2aad9ad87c561bc"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000084.png",
+      "sha1": "62a980cc7453748e74a9ac3d1e64b4634c3fcd01"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000085.png",
+      "sha1": "defd146fb9ef446394fa596aafd8057ac7765ea5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000086.png",
+      "sha1": "98fa255b6833094ab99a70d430de9c2c0445db73"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000087.png",
+      "sha1": "db8d93f963923b27f78e96be5be1eb8406bb9ea5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000088.png",
+      "sha1": "467dc78906b8cca189e83969c39fcc3aca418614"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000089.png",
+      "sha1": "97812774663aa5efce3e1a4a825b771968d54b3f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000090.png",
+      "sha1": "58a79a82ade9d7b9a94d18e020d64a1ce2397a43"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000091.png",
+      "sha1": "d1cd2944b23fdb07b912adcd547e91a736c5417f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000092.png",
+      "sha1": "1eef4e260cf3f55f126c32d202607b6bdeeae205"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000093.png",
+      "sha1": "8c4e48c380588e04c9992127b266f5df99df7383"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000094.png",
+      "sha1": "2b0b11d07d8d5de7ea4e0867afeca3b2ce968299"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000095.png",
+      "sha1": "c2faa80e00143d0cf2c941246d032dac30b2d604"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000096.png",
+      "sha1": "ab3c859a46b7499d6df5356ece475f19224a53cb"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000097.png",
+      "sha1": "eb002bbec625d6298fc3da9868243570b5bfac42"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000098.png",
+      "sha1": "b8c9dd40928b6a436503e5a6d9a62f404ab9e5b1"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000099.png",
+      "sha1": "c2127bf0dda9a3fd0d23a7e201b17f16af09fc1b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000100.png",
+      "sha1": "19aa787a891bd4f29ce3333b44c6f5d4e88b42bf"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000101.png",
+      "sha1": "31ad5d7ae32a0afe1f43661494af47b84531381f"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000102.png",
+      "sha1": "4a92acc96f20f2a39dace94a3e888dbf0aa39bb3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000103.png",
+      "sha1": "791033407a328fc6d379d2b96da8bc72c06d3ec9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000104.png",
+      "sha1": "cd2315bd550010f07fe94552a6c6dcfc69c685b8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000105.png",
+      "sha1": "ef19547e5d650e8734a10039c11bfb01bea136ba"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000106.png",
+      "sha1": "8778d851ee4c87506a0b0f5fa807edd881e2c2d3"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000107.png",
+      "sha1": "5f362bc57b51ba65b5afda35c39e2d80be12e305"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000108.png",
+      "sha1": "bc6dda9207f1e95586425a2ead6d649dd5bb5328"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000109.png",
+      "sha1": "585c46844c8a286e734f14757ba34c272fbeae13"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000110.png",
+      "sha1": "4bf9186ab8b79ade4827107542dbaac35c8b9793"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000111.png",
+      "sha1": "9fd9a96232e5498a4ab04c0a8406264e7fc4d594"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000112.png",
+      "sha1": "656fdf07dc3253c292e2d198f341c9b1f9e54b2d"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000113.png",
+      "sha1": "b878524f6f1ed0d0d248bc19b4f20373429f2048"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000114.png",
+      "sha1": "35d55209e3eb82cc5fec3a1d97f9249e9cf122d5"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000115.png",
+      "sha1": "3fb966ade77e39aec4d3f70868ded5b0e11686bd"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000116.png",
+      "sha1": "9a07f0eaeaaba228e7982ba34a5001c67d4a69cf"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000117.png",
+      "sha1": "09a3e5c0b1a81ed8be35772d739933565056c3ea"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000118.png",
+      "sha1": "3fcc311ce2f062f60b2f5fd926dd6840d018f465"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000119.png",
+      "sha1": "b88e37ef0acb5a509295b09d8a35c138b95c2220"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000120.png",
+      "sha1": "9b3cff816fa067816f417fa38d83e61460ec2132"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000121.png",
+      "sha1": "475a77cd494055f08ed7cb23dcb8d4428d6722ee"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000122.png",
+      "sha1": "8a7a18cb3dd168388e481957d7ae407774e7d5e9"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000123.png",
+      "sha1": "bfe51b9b8350c3a6529f077ea07961879a983ba8"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000124.png",
+      "sha1": "c5d57c4ff83f2a81390e007c7cb7a0674345af1b"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/fire_ball/frame000125.png",
+      "sha1": "47bc2d8b11a6210f882b5156b2299873db295d20"
+    },
+    {
+      "path": "assets/effects/Burning_Effect/preview.png",
+      "sha1": "a1b8a06910e9818c3d510743bf8bc42cdf75d68c"
+    }
+  ]
+}

@@ -50,7 +50,7 @@ function App():JSX.Element {
             path: './assets/effects/Burning_Effect/burning_effect.deepar',
             slot: 'effect',
           });
-          console.log("Effect Switched baby");
+          console.log("Effect Switched baby");  
 
         } catch (e: any) {
           console.log(e.message);
